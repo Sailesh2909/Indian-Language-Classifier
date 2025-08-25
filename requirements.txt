@@ -6,3 +6,4 @@ matplotlib
 seaborn
 tensorflow
 streamlit
+resampy
