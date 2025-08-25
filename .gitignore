@@ -5,6 +5,14 @@ data/
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+*.wav
+*.mp3
+*.zip
+*.tar
+data/
+temp_audio.wav
+
 
 # Virtual environment folders
 venv/

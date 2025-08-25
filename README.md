@@ -11,6 +11,7 @@ We use the [Indian Language Detection Dataset](https://www.kaggle.com/code/vishn
 Please download it manually and place it inside a `data/` folder:
 
 Indian-Language-Classifier/
+
 │── data/
 │ ├── Hindi/
 │ ├── Tamil/
