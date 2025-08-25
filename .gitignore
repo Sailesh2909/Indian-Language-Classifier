@@ -1,0 +1,23 @@
+# Ignore dataset (too large for GitHub)
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folders
+venv/
+.env/
+
+# Model files (checkpoints, weights)
+*.h5
+*.ckpt
+*.pth
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
